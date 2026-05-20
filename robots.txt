@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://neural-interfaces26.github.io/sitemap.xml
